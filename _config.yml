@@ -1,0 +1,28 @@
+name: John Jackson III
+favicon: null
+layout_spectrum: 0.5433167610317469
+typography_spectrum: 0.930732699111104
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.12297459575347602
+  lightness: 0.4156356016173959
+  saturation: 0.9176536730956286
+  rhythmicContrast: 0.31347058969549835
+purpose: []
